@@ -1,0 +1,19 @@
+Archive name="c173f928c9144724ba9a6ef00fae77b6" blocksize="262144"
+TOCStart name="attrib" alias="attrib" path="" relativeroot="attrib"
+	FileSettingsStart defverification="sha1_blocks" defcompression="stream_compress"
+		Override wildcard=".*\.(rgd)$" minsize="-1" maxsize="-1" vt="sha1_blocks" ct="buffer_compress"
+	FileSettingsEnd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\DoubleLMG\doublelmg Intermediate Cache\Intermediate Files\attrib\attrib\ebps\races\aef\buildings\weapon_racks\aef_weapon_rack_m1919_lmg.rgd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\DoubleLMG\doublelmg Intermediate Cache\Intermediate Files\attrib\attrib\slot_item\aef\small_arms\m1919a6_lmg_governor.rgd
+TOCEnd
+TOCStart name="locale" alias="locale" path="" relativeroot="locale"
+	FileSettingsStart defverification="crc_blocks" defcompression="stream_compress"
+	FileSettingsEnd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\DoubleLMG\doublelmg Intermediate Cache\Intermediate Files\locale\english\english.ucs
+TOCEnd
+TOCStart name="info" alias="info" path="" relativeroot="info"
+	FileSettingsStart defverification="crc_blocks" defcompression="stream_compress"
+		Override wildcard=".*\.(lua)$" minsize="-1" maxsize="-1" vt="crc_blocks" ct="buffer_compress"
+	FileSettingsEnd
+	D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\DoubleLMG\doublelmg Intermediate Cache\Intermediate Files\info\c173f928c9144724ba9a6ef00fae77b6.info
+TOCEnd

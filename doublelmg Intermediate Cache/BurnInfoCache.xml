@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BurnInfoRoot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\DoubleLMG\doublelmg.xml</FileName>
+			<FileHash>1338f6cb929d62c5d2209f6ee1f1e6c0</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\DoubleLMG\instances\ebps\races\aef\buildings\weapon_racks\aef_weapon_rack_m1919_lmg.xml</FileName>
+			<FileHash>ea6c023a6b078ea39f7ab22072f61bc6</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\DoubleLMG\instances\slot_item\aef\small_arms\m1919a6_lmg_governor.xml</FileName>
+			<FileHash>162058d38d38aa906e3550a8b795e899</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\DoubleLMG\locale\english\english.ucs</FileName>
+			<FileHash>5a417799d78debdcd4017e00fccbd9af</FileHash>
+		</BurnInfo>
+		<BurnInfo>
+			<FileName>D:\Windows7\Documents\my games\Company of Heroes 2\mod projects\DoubleLMG\doublelmg Intermediate Cache\Intermediate Files\info\c173f928c9144724ba9a6ef00fae77b6.info</FileName>
+			<FileHash>56ea21aaf05106c5e5e8279e61448bac</FileHash>
+		</BurnInfo>
+	</BurnInfo>
+	<BurnInfoExtendedInfo />
+</BurnInfoRoot>
